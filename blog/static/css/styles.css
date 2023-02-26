@@ -1,4 +1,27 @@
 body{
-    background-color: #eee;
+    background-color: #EEE9DA;
     color: #222;
     }
+
+.navbar-top{
+    background-color: #93BFCF;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    padding:25px;
+}
+.article{
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    background-color: #BDCDD6;
+    padding:5px;
+    padding-bottom: 2.5px;
+}
+.article-title{
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    background-color: #93BFCF;
+    margin-top: 0;
+}
+.article-text{
+    padding:5px;
+}
